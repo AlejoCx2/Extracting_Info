@@ -1,0 +1,6 @@
+C:\test\Extracting_Info\Extracting_Info\bin\Debug\Extracting_Info.dll
+C:\test\Extracting_Info\Extracting_Info\bin\Debug\Extracting_Info.pdb
+C:\test\Extracting_Info\Extracting_Info\obj\Debug\Extracting_Info.csproj.AssemblyReference.cache
+C:\test\Extracting_Info\Extracting_Info\obj\Debug\Extracting_Info.csproj.CoreCompileInputs.cache
+C:\test\Extracting_Info\Extracting_Info\obj\Debug\Extracting_Info.dll
+C:\test\Extracting_Info\Extracting_Info\obj\Debug\Extracting_Info.pdb
